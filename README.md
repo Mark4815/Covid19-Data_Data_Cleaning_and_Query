@@ -1,4 +1,4 @@
-# SQLviaColab
+# Covid19 Data ~ SQLviaColab
 Journey at:
 - Uploading a data-set
 - Creating a dataframe
